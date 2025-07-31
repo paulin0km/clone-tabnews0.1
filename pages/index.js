@@ -2,8 +2,8 @@ function Home() {
   return (
     <h1>
       Vou depositar alguns projetos basicos de iniciante 🤓
-      <br>Hello World!!</br>
     </h1>
+    <p>Codigos bla bla</p>
   );
 }
 
