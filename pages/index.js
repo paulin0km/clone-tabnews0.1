@@ -1,5 +1,10 @@
 function Home() {
-  return <h1>Oi Renato! Eu tenho um espaço na internet só meu 😎</h1>;
+  return (
+    <h1>
+      Vou depositar alguns projetos basicos de iniciante 🤓
+      <br>Errando e errando, vai dar certo!</br>
+    </h1>
+  );
 }
 
 function teste() {
