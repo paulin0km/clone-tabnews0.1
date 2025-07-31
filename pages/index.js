@@ -1,7 +1,8 @@
 function Home() {
   return (
-    <h1>Vou depositar alguns projetos basicos de iniciante 🤓</h1>
-    <h2>Codigos bla</h2>
+    <h1>
+      <em>Vou depositar alguns projetos basicos de iniciante 🤓</em>
+    </h1>
   );
 }
 
