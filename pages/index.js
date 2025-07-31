@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>oiii alicyy, nome foda pra krl, pique gringo states unites</h1>;
+  return <h1>Oi Renato! Eu tenho um espaço na internet só meu 😎</h1>;
 }
 
 function teste() {
