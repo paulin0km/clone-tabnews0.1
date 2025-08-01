@@ -2,7 +2,7 @@ function Home() {
   return (
     <h1>
       <em>
-        Vou depositar <strong></strong>alguns projetos basicos de iniciante 🤓
+        Vou depositar <strong>alguns projetos</strong> basicos de iniciante 🤓
       </em>
     </h1>
   );
