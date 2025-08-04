@@ -1,10 +1,12 @@
+import { useEffect } from "react";
+
 function Home() {
+  useEffect(() => {
+    window.confirm('Paulin diz ta dizido');
+  }, []);
+
   return (
-    <h1>
-      <em>
-        Vou depositar <strong>alguns projetos</strong> basicos de iniciante 🤓
-      </em>
-    </h1>
+    <h1>Salve, comprei esse domínio pra fazer meu portifólio?</h1>
   );
 }
 
