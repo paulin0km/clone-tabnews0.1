@@ -1,8 +1,7 @@
 function Home() {
   return (
     <h1>
-      Plantei tanto pé de dinheiro<br />
-      Que agora eu tenho uma horta
+      salve
     </h1>
   );
 }
